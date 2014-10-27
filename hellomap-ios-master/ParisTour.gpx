@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="48.83929" lon="2.39616">
+  <name>48.8392488,2.3961233</name>
+</wpt>
+<wpt lat="48.83567" lon="2.37543">
+  <name>Joséphine Baker Swimming Pool, Port de la Gare, Quai François Mauriac, 75013 Paris, France</name>
+</wpt>
+<wpt lat="48.83569" lon="2.37541">
+  <name>Joséphine Baker Swimming Pool, Port de la Gare, Quai François Mauriac, 75013 Paris, France</name>
+</wpt>
+<wpt lat="48.8424" lon="2.32862">
+  <name>Le Relais de l'Entrecôte Montparnasse, 101 Boulevard du Montparnasse, 75006 Paris, France</name>
+</wpt>
+<wpt lat="48.85569" lon="2.2877">
+  <name>Pont de Bir-Hakeim, Quai de Grenelle, 75015 Paris, France</name>
+</wpt>
+<trk>
+  <name>48.8392488,2.3961233 - Joséphine Baker Swimming Pool, Port de la Gare, Quai François Mauriac, 75013 Paris, France (2.8 km / 7 mins)</name>
+  <trkseg>
+    <trkpt lat="48.83929" lon="2.39616"></trkpt>
+    <trkpt lat="48.83918" lon="2.39662"></trkpt>
+    <trkpt lat="48.83893" lon="2.39737"></trkpt>
+    <trkpt lat="48.83828" lon="2.39917"></trkpt>
+    <trkpt lat="48.83828" lon="2.39917"></trkpt>
+    <trkpt lat="48.83918" lon="2.40066"></trkpt>
+    <trkpt lat="48.83918" lon="2.40066"></trkpt>
+    <trkpt lat="48.83963" lon="2.40019"></trkpt>
+    <trkpt lat="48.83963" lon="2.40019"></trkpt>
+    <trkpt lat="48.8397" lon="2.40027"></trkpt>
+    <trkpt lat="48.83979" lon="2.40029"></trkpt>
+    <trkpt lat="48.83986" lon="2.40022"></trkpt>
+    <trkpt lat="48.8399" lon="2.40009"></trkpt>
+    <trkpt lat="48.83987" lon="2.39994"></trkpt>
+    <trkpt lat="48.83972" lon="2.39987"></trkpt>
+    <trkpt lat="48.83963" lon="2.39964"></trkpt>
+    <trkpt lat="48.83956" lon="2.39678"></trkpt>
+    <trkpt lat="48.83967" lon="2.39647"></trkpt>
+    <trkpt lat="48.83964" lon="2.3961"></trkpt>
+    <trkpt lat="48.83964" lon="2.3961"></trkpt>
+    <trkpt lat="48.83977" lon="2.39596"></trkpt>
+    <trkpt lat="48.8398" lon="2.39575"></trkpt>
+    <trkpt lat="48.8397" lon="2.39553"></trkpt>
+    <trkpt lat="48.83954" lon="2.3955"></trkpt>
+    <trkpt lat="48.83954" lon="2.39492"></trkpt>
+    <trkpt lat="48.83941" lon="2.39447"></trkpt>
+    <trkpt lat="48.83909" lon="2.39407"></trkpt>
+    <trkpt lat="48.83731" lon="2.3912"></trkpt>
+    <trkpt lat="48.83731" lon="2.3912"></trkpt>
+    <trkpt lat="48.837" lon="2.3898"></trkpt>
+    <trkpt lat="48.83647" lon="2.38771"></trkpt>
+    <trkpt lat="48.83647" lon="2.38771"></trkpt>
+    <trkpt lat="48.83651" lon="2.38768"></trkpt>
+    <trkpt lat="48.83656" lon="2.38754"></trkpt>
+    <trkpt lat="48.83653" lon="2.38733"></trkpt>
+    <trkpt lat="48.83623" lon="2.38678"></trkpt>
+    <trkpt lat="48.83613" lon="2.38675"></trkpt>
+    <trkpt lat="48.83608" lon="2.38678"></trkpt>
+    <trkpt lat="48.83608" lon="2.38678"></trkpt>
+    <trkpt lat="48.83569" lon="2.38608"></trkpt>
+    <trkpt lat="48.83569" lon="2.38608"></trkpt>
+    <trkpt lat="48.83526" lon="2.38539"></trkpt>
+    <trkpt lat="48.83526" lon="2.38539"></trkpt>
+    <trkpt lat="48.83362" lon="2.3823"></trkpt>
+    <trkpt lat="48.83362" lon="2.3823"></trkpt>
+    <trkpt lat="48.83223" lon="2.37974"></trkpt>
+    <trkpt lat="48.83223" lon="2.37974"></trkpt>
+    <trkpt lat="48.83567" lon="2.37543"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Joséphine Baker Swimming Pool, Port de la Gare, Quai François Mauriac, 75013 Paris, France - Le Relais de l'Entrecôte Montparnasse, 101 Boulevard du Montparnasse, 75006 Paris, France (4.0 km / 11 mins)</name>
+  <trkseg>
+    <trkpt lat="48.83569" lon="2.37541"></trkpt>
+    <trkpt lat="48.83444" lon="2.37315"></trkpt>
+    <trkpt lat="48.83444" lon="2.37315"></trkpt>
+    <trkpt lat="48.83637" lon="2.37134"></trkpt>
+    <trkpt lat="48.83637" lon="2.37134"></trkpt>
+    <trkpt lat="48.83594" lon="2.37048"></trkpt>
+    <trkpt lat="48.83543" lon="2.36917"></trkpt>
+    <trkpt lat="48.83397" lon="2.36472"></trkpt>
+    <trkpt lat="48.83397" lon="2.36472"></trkpt>
+    <trkpt lat="48.83568" lon="2.36155"></trkpt>
+    <trkpt lat="48.83643" lon="2.35968"></trkpt>
+    <trkpt lat="48.83673" lon="2.35908"></trkpt>
+    <trkpt lat="48.83673" lon="2.35908"></trkpt>
+    <trkpt lat="48.83802" lon="2.35744"></trkpt>
+    <trkpt lat="48.83821" lon="2.35712"></trkpt>
+    <trkpt lat="48.83848" lon="2.35703"></trkpt>
+    <trkpt lat="48.83848" lon="2.35703"></trkpt>
+    <trkpt lat="48.83678" lon="2.35167"></trkpt>
+    <trkpt lat="48.83678" lon="2.35167"></trkpt>
+    <trkpt lat="48.83692" lon="2.3508"></trkpt>
+    <trkpt lat="48.83734" lon="2.34695"></trkpt>
+    <trkpt lat="48.83764" lon="2.34551"></trkpt>
+    <trkpt lat="48.83771" lon="2.34533"></trkpt>
+    <trkpt lat="48.83888" lon="2.3397"></trkpt>
+    <trkpt lat="48.83977" lon="2.33654"></trkpt>
+    <trkpt lat="48.83977" lon="2.33654"></trkpt>
+    <trkpt lat="48.84195" lon="2.32987"></trkpt>
+    <trkpt lat="48.8424" lon="2.32862"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Le Relais de l'Entrecôte Montparnasse, 101 Boulevard du Montparnasse, 75006 Paris, France - Pont de Bir-Hakeim, Quai de Grenelle, 75015 Paris, France (3.6 km / 9 mins)</name>
+  <trkseg>
+    <trkpt lat="48.8424" lon="2.32862"></trkpt>
+    <trkpt lat="48.84344" lon="2.32549"></trkpt>
+    <trkpt lat="48.84404" lon="2.32354"></trkpt>
+    <trkpt lat="48.84425" lon="2.32273"></trkpt>
+    <trkpt lat="48.84517" lon="2.31991"></trkpt>
+    <trkpt lat="48.8455" lon="2.31917"></trkpt>
+    <trkpt lat="48.84659" lon="2.31704"></trkpt>
+    <trkpt lat="48.84692" lon="2.31683"></trkpt>
+    <trkpt lat="48.84692" lon="2.31683"></trkpt>
+    <trkpt lat="48.84643" lon="2.31536"></trkpt>
+    <trkpt lat="48.84526" lon="2.31149"></trkpt>
+    <trkpt lat="48.84526" lon="2.31149"></trkpt>
+    <trkpt lat="48.84539" lon="2.31101"></trkpt>
+    <trkpt lat="48.84532" lon="2.31094"></trkpt>
+    <trkpt lat="48.84532" lon="2.31094"></trkpt>
+    <trkpt lat="48.84542" lon="2.31069"></trkpt>
+    <trkpt lat="48.84668" lon="2.30619"></trkpt>
+    <trkpt lat="48.84778" lon="2.30247"></trkpt>
+    <trkpt lat="48.84796" lon="2.30174"></trkpt>
+    <trkpt lat="48.84796" lon="2.30174"></trkpt>
+    <trkpt lat="48.84801" lon="2.30169"></trkpt>
+    <trkpt lat="48.84818" lon="2.30116"></trkpt>
+    <trkpt lat="48.85058" lon="2.29352"></trkpt>
+    <trkpt lat="48.85092" lon="2.29259"></trkpt>
+    <trkpt lat="48.85108" lon="2.29237"></trkpt>
+    <trkpt lat="48.85358" lon="2.28987"></trkpt>
+    <trkpt lat="48.85463" lon="2.28878"></trkpt>
+    <trkpt lat="48.85463" lon="2.28878"></trkpt>
+    <trkpt lat="48.85569" lon="2.2877"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

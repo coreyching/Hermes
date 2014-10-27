@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="48.8339" lon="2.37761">
+  <name>75013 Paris, France</name>
+</wpt>
+<wpt lat="48.86798" lon="2.30281">
+  <name>15 Rue Marbeuf, 75008 Paris, France</name>
+</wpt>
+<wpt lat="48.85569" lon="2.2877">
+  <name>Pont de Bir-Hakeim, Quai de Grenelle, 75015 Paris, France</name>
+</wpt>
+<trk>
+  <name>75013 Paris, France - 15 Rue Marbeuf, 75008 Paris, France (7.3 km / 1 hour 32 mins)</name>
+  <trkseg>
+    <trkpt lat="48.8339" lon="2.37761"></trkpt>
+    <trkpt lat="48.83565" lon="2.37535"></trkpt>
+    <trkpt lat="48.83565" lon="2.37535"></trkpt>
+    <trkpt lat="48.83646" lon="2.37464"></trkpt>
+    <trkpt lat="48.83734" lon="2.37378"></trkpt>
+    <trkpt lat="48.83734" lon="2.37378"></trkpt>
+    <trkpt lat="48.83849" lon="2.37259"></trkpt>
+    <trkpt lat="48.83866" lon="2.37237"></trkpt>
+    <trkpt lat="48.84318" lon="2.3661"></trkpt>
+    <trkpt lat="48.84318" lon="2.3661"></trkpt>
+    <trkpt lat="48.84332" lon="2.36622"></trkpt>
+    <trkpt lat="48.84363" lon="2.36611"></trkpt>
+    <trkpt lat="48.84396" lon="2.36585"></trkpt>
+    <trkpt lat="48.84444" lon="2.36529"></trkpt>
+    <trkpt lat="48.84472" lon="2.36489"></trkpt>
+    <trkpt lat="48.84482" lon="2.36465"></trkpt>
+    <trkpt lat="48.84488" lon="2.36427"></trkpt>
+    <trkpt lat="48.84484" lon="2.36395"></trkpt>
+    <trkpt lat="48.84484" lon="2.36395"></trkpt>
+    <trkpt lat="48.84783" lon="2.35947"></trkpt>
+    <trkpt lat="48.84911" lon="2.35764"></trkpt>
+    <trkpt lat="48.84924" lon="2.35735"></trkpt>
+    <trkpt lat="48.84938" lon="2.35676"></trkpt>
+    <trkpt lat="48.84938" lon="2.35676"></trkpt>
+    <trkpt lat="48.84943" lon="2.35441"></trkpt>
+    <trkpt lat="48.8496" lon="2.35051"></trkpt>
+    <trkpt lat="48.85081" lon="2.34566"></trkpt>
+    <trkpt lat="48.8513" lon="2.34349"></trkpt>
+    <trkpt lat="48.85249" lon="2.33878"></trkpt>
+    <trkpt lat="48.85317" lon="2.33584"></trkpt>
+    <trkpt lat="48.85421" lon="2.33161"></trkpt>
+    <trkpt lat="48.85446" lon="2.33046"></trkpt>
+    <trkpt lat="48.85523" lon="2.32774"></trkpt>
+    <trkpt lat="48.85609" lon="2.32583"></trkpt>
+    <trkpt lat="48.85707" lon="2.32449"></trkpt>
+    <trkpt lat="48.86152" lon="2.32033"></trkpt>
+    <trkpt lat="48.86231" lon="2.3195"></trkpt>
+    <trkpt lat="48.86252" lon="2.31898"></trkpt>
+    <trkpt lat="48.86281" lon="2.31798"></trkpt>
+    <trkpt lat="48.86286" lon="2.31735"></trkpt>
+    <trkpt lat="48.86286" lon="2.31735"></trkpt>
+    <trkpt lat="48.86285" lon="2.31519"></trkpt>
+    <trkpt lat="48.86289" lon="2.31461"></trkpt>
+    <trkpt lat="48.86283" lon="2.31216"></trkpt>
+    <trkpt lat="48.86279" lon="2.31167"></trkpt>
+    <trkpt lat="48.86261" lon="2.31079"></trkpt>
+    <trkpt lat="48.86259" lon="2.3104"></trkpt>
+    <trkpt lat="48.86259" lon="2.3104"></trkpt>
+    <trkpt lat="48.86491" lon="2.31032"></trkpt>
+    <trkpt lat="48.86491" lon="2.31032"></trkpt>
+    <trkpt lat="48.86491" lon="2.31015"></trkpt>
+    <trkpt lat="48.86491" lon="2.31015"></trkpt>
+    <trkpt lat="48.86613" lon="2.30794"></trkpt>
+    <trkpt lat="48.86622" lon="2.30797"></trkpt>
+    <trkpt lat="48.8663" lon="2.30791"></trkpt>
+    <trkpt lat="48.86632" lon="2.30779"></trkpt>
+    <trkpt lat="48.86628" lon="2.30768"></trkpt>
+    <trkpt lat="48.86702" lon="2.3063"></trkpt>
+    <trkpt lat="48.86865" lon="2.3037"></trkpt>
+    <trkpt lat="48.86865" lon="2.3037"></trkpt>
+    <trkpt lat="48.86798" lon="2.30281"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>15 Rue Marbeuf, 75008 Paris, France - Pont de Bir-Hakeim, Quai de Grenelle, 75015 Paris, France (2.1 km / 27 mins)</name>
+  <trkseg>
+    <trkpt lat="48.86798" lon="2.30281"></trkpt>
+    <trkpt lat="48.86722" lon="2.30193"></trkpt>
+    <trkpt lat="48.86687" lon="2.30149"></trkpt>
+    <trkpt lat="48.86677" lon="2.3013"></trkpt>
+    <trkpt lat="48.86677" lon="2.3013"></trkpt>
+    <trkpt lat="48.86504" lon="2.30145"></trkpt>
+    <trkpt lat="48.86483" lon="2.30139"></trkpt>
+    <trkpt lat="48.8644" lon="2.30145"></trkpt>
+    <trkpt lat="48.8644" lon="2.30145"></trkpt>
+    <trkpt lat="48.86427" lon="2.30072"></trkpt>
+    <trkpt lat="48.86427" lon="2.30072"></trkpt>
+    <trkpt lat="48.86408" lon="2.29947"></trkpt>
+    <trkpt lat="48.864" lon="2.29933"></trkpt>
+    <trkpt lat="48.86342" lon="2.29663"></trkpt>
+    <trkpt lat="48.86275" lon="2.29443"></trkpt>
+    <trkpt lat="48.86236" lon="2.29355"></trkpt>
+    <trkpt lat="48.86236" lon="2.29355"></trkpt>
+    <trkpt lat="48.86235" lon="2.29337"></trkpt>
+    <trkpt lat="48.8622" lon="2.29307"></trkpt>
+    <trkpt lat="48.86208" lon="2.29303"></trkpt>
+    <trkpt lat="48.86088" lon="2.29147"></trkpt>
+    <trkpt lat="48.86088" lon="2.29147"></trkpt>
+    <trkpt lat="48.86074" lon="2.29172"></trkpt>
+    <trkpt lat="48.86074" lon="2.29172"></trkpt>
+    <trkpt lat="48.85995" lon="2.29072"></trkpt>
+    <trkpt lat="48.85995" lon="2.29072"></trkpt>
+    <trkpt lat="48.86008" lon="2.29048"></trkpt>
+    <trkpt lat="48.86008" lon="2.29048"></trkpt>
+    <trkpt lat="48.85881" lon="2.28897"></trkpt>
+    <trkpt lat="48.85847" lon="2.28865"></trkpt>
+    <trkpt lat="48.85793" lon="2.2879"></trkpt>
+    <trkpt lat="48.85793" lon="2.2879"></trkpt>
+    <trkpt lat="48.85683" lon="2.28653"></trkpt>
+    <trkpt lat="48.85683" lon="2.28653"></trkpt>
+    <trkpt lat="48.85667" lon="2.28668"></trkpt>
+    <trkpt lat="48.8567" lon="2.28675"></trkpt>
+    <trkpt lat="48.8567" lon="2.28675"></trkpt>
+    <trkpt lat="48.85654" lon="2.28685"></trkpt>
+    <trkpt lat="48.85569" lon="2.2877"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
